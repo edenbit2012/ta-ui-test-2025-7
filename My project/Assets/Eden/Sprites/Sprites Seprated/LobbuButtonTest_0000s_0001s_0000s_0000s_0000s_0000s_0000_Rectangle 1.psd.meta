@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 5884b4f645c4e1c4fb5cb36799e15bf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8113174342821086690
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_0
+  - first:
+      213: -7618551739171427790
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_1
+  - first:
+      213: -6859072500543752794
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_2
+  - first:
+      213: 3899055034712151596
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_3
+  - first:
+      213: 4306327982499051705
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_4
+  - first:
+      213: -5900420946617428572
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_5
+  - first:
+      213: -3847161711648064779
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_6
+  - first:
+      213: 1441520863483208853
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_7
+  - first:
+      213: -2121600303236290446
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_8
+  - first:
+      213: 7295678351538923404
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_9
+  - first:
+      213: 6214958263888288490
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_10
+  - first:
+      213: 6588560613790521988
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_11
+  - first:
+      213: -1292476641223576427
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_12
+  - first:
+      213: 378864998688221916
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_13
+  - first:
+      213: -6547805953972371850
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_14
+  - first:
+      213: 4642706194093323261
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_15
+  - first:
+      213: 5479526124209443635
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_16
+  - first:
+      213: -2044870903381558022
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_17
+  - first:
+      213: -3867566894855816506
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_18
+  - first:
+      213: 2008690452616352156
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_19
+  - first:
+      213: -8857079514552533785
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_20
+  - first:
+      213: -2503156688031451632
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_21
+  - first:
+      213: -6276454363872266133
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_22
+  - first:
+      213: 7562879152849654250
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_23
+  - first:
+      213: -8059691135774740752
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_24
+  - first:
+      213: -2611361570405760800
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_25
+  - first:
+      213: 8914127041037477370
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_26
+  - first:
+      213: 259342062306232261
+    second: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1af55fabe6386f80800000000000000
+      internalID: -8113174342821086690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 29
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23aa0cbde87754690800000000000000
+      internalID: -7618551739171427790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 24
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a57074d6edafc0a0800000000000000
+      internalID: -6859072500543752794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 10
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2657bf55e93c1630800000000000000
+      internalID: 3899055034712151596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 19
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b83e23fb7623cb30800000000000000
+      internalID: 4306327982499051705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 43
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5189b296e7d1ea0800000000000000
+      internalID: -5900420946617428572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 58
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fabbbf6ec22c9ac0800000000000000
+      internalID: -3847161711648064779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 14
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5942b3c769f410410800000000000000
+      internalID: 1441520863483208853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 39
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2786d32d3cf8e82e0800000000000000
+      internalID: -2121600303236290446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 15
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c872cfa7ec47f3560800000000000000
+      internalID: 7295678351538923404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 19
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea90fcdc97ff3650800000000000000
+      internalID: 6214958263888288490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 15
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a1d1678f44f6b50800000000000000
+      internalID: 6588560613790521988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 14
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594f067b753301ee0800000000000000
+      internalID: -1292476641223576427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 14
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdae3a085bff14500800000000000000
+      internalID: 378864998688221916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 11
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ef9473d258125a0800000000000000
+      internalID: -6547805953972371850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_15
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 29
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df330777fa43e6040800000000000000
+      internalID: 4642706194093323261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_16
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 24
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3331afa6aff2b0c40800000000000000
+      internalID: 5479526124209443635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 10
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcf8606fb82f93e0800000000000000
+      internalID: -2044870903381558022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_18
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 33
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cafe0f7664a35ac0800000000000000
+      internalID: -3867566894855816506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_19
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 58
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c919aebf25d40eb10800000000000000
+      internalID: 2008690452616352156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_20
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 14
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecf4bbbb15551580800000000000000
+      internalID: -8857079514552533785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_21
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 39
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016fdb82140034dd0800000000000000
+      internalID: -2503156688031451632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_22
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 0
+        width: 15
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b687178920e85e8a0800000000000000
+      internalID: -6276454363872266133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_23
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 0
+        width: 19
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae19fc8058eb4f860800000000000000
+      internalID: 7562879152849654250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_24
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 0
+        width: 15
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe28c43d99362090800000000000000
+      internalID: -8059691135774740752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_25
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 14
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0cbdfbc7492cbd0800000000000000
+      internalID: -2611361570405760800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_26
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 0
+        width: 14
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af52eb3905755bb70800000000000000
+      internalID: 8914127041037477370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_27
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 6
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7841b4b3e599300800000000000000
+      internalID: 259342062306232261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_0: -8113174342821086690
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_1: -7618551739171427790
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_10: 6214958263888288490
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_11: 6588560613790521988
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_12: -1292476641223576427
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_13: 378864998688221916
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_14: -6547805953972371850
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_15: 4642706194093323261
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_16: 5479526124209443635
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_17: -2044870903381558022
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_18: -3867566894855816506
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_19: 2008690452616352156
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_2: -6859072500543752794
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_20: -8857079514552533785
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_21: -2503156688031451632
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_22: -6276454363872266133
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_23: 7562879152849654250
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_24: -8059691135774740752
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_25: -2611361570405760800
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_26: 8914127041037477370
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_27: 259342062306232261
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_3: 3899055034712151596
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_4: 4306327982499051705
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_5: -5900420946617428572
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_6: -3847161711648064779
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_7: 1441520863483208853
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_8: -2121600303236290446
+      LobbuButtonTest_0000s_0001s_0000s_0000s_0000s_0000s_0000_Rectangle 1_9: 7295678351538923404
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
