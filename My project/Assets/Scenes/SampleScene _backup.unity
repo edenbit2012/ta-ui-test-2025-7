@@ -915,8 +915,8 @@ RectTransform:
   - {fileID: 1932048730}
   - {fileID: 1413446962}
   - {fileID: 497469432}
-  - {fileID: 1979887085}
   - {fileID: 206589543}
+  - {fileID: 1979887085}
   - {fileID: 1738801403}
   - {fileID: 1789544266}
   - {fileID: 356367010}
@@ -2472,7 +2472,6 @@ GameObject:
   - component: {fileID: 1979887085}
   - component: {fileID: 1979887087}
   - component: {fileID: 1979887086}
-  - component: {fileID: 1979887088}
   m_Layer: 5
   m_Name: 999/999 txt
   m_TagString: Untagged
@@ -2598,28 +2597,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1979887084}
   m_CullTransparentMesh: 1
---- !u!95 &1979887088
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1979887084}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 7b1fa9f04a2e3b8458a4bdd20e6bb6cc, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2067955046
 GameObject:
   m_ObjectHideFlags: 0
